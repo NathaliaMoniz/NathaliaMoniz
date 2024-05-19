@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Nathalia Moniz</h1>
 <h3 align="center">Estudiante de ingeniería informática en la univerdidad Carlos III de Madrid</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
