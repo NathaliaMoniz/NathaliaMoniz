@@ -1,6 +1,8 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://t3.ftcdn.net/jpg/05/01/05/92/360_F_501059290_JGpwkUebVRzYFPTpS2M1q7WE6KjQIWbV.jpg))]
+
 <h1 align="center">Hola 👋, Soy Nathalia Moniz</h1>
 <h3 align="center">Estudiante de ingeniería informática en la univerdidad Carlos III de Madrid</h3>
-
+<img align= "right" alt="coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/49e5716eade46e97656d5d6427b11340-1684516178/ANIMATE1_V2/can-make-gif-animated-in-the-form-of-pixel-art.gif">
 
 <p align="left">
 </p>
