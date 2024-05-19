@@ -1,7 +1,7 @@
-
+[![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhiM2Q0MWgzeTRlMHYzNzd4azgxazZmcGMxcXgxYWsxOHl4c2w0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)](https://github.com/NathaliaMoniz)
 <h1 align="center">Hola 👋, Soy Nathalia Moniz</h1>
 <h3 align="center">Estudiante de ingeniería informática en la univerdidad Carlos III de Madrid</h3>
-<img align= "right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhiM2Q0MWgzeTRlMHYzNzd4azgxazZmcGMxcXgxYWsxOHl4c2w0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
+<img align= "right" alt="coding" width="400" src="">
 
 <p align="left">
 </p>
